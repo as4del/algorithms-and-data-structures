@@ -60,3 +60,5 @@ ____
 ```
 2 3
 ```
+
+## [Решение][https://github.com/as4del/algorithms-and-data-structures/blob/main/problems%20%26%20solutions/A.cpp]
